@@ -40,8 +40,9 @@ Booleans - which are true or false values
 **Data Structures**
 -	data structures allow for the storage of a list of values in a single variable.
    
-**Types of Data Structures
-List** 
+**Types of Data Structures**
+
+**List** 
 - can contain any data type, including a list within a list. 
 - The length of a list can be determined using the length function.
 
@@ -166,5 +167,5 @@ Slicing
 - Each bytes has 8 bits
 - byte objects start with a b
 
-**
-4. BASIC DATA STRUCTURE**
+
+**4. BASIC DATA STRUCTURE**
