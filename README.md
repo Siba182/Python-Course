@@ -109,3 +109,53 @@ def functionName (argument)
  return value
 
  - other function does not have any return value but uses print to print to the console
+
+
+Basic Data Types
+
+INTS and FLOATS
+- Python automatically returns a float to accommodate non-whole numbers
+- Adding a float to an int, multiplication or exponents will return a float
+
+Casting
+- conversion from one type to another
+- doesnt round numbers, it just removes the decimal part eg 8.9 will be 8
+- to round a float to an int you use the round function eg round(14/3) will be 5
+- you can also round to the nearest decimal when calculating floats. eg. round(1.2 - 1.0, 2) will be 0.2
+
+
+Alternative Number Types
+Integer 
+- passing a number as a strng it, the int class converts it to an integer
+
+Decimal 
+- better than the float if you will be dealing with money
+- you will need to import the decimal class and the getcontect function
+- the getcontext function hold a global setting for using the decimal class
+
+Booleans
+- integers are casted(converted) to booleans
+- anything except 0 is true
+- Boolean true is true
+- empty strings is false
+- 'false' is true as it is a string that is not empty
+- Data structures can also be casted as booleans
+- an empty list or dictionary is false
+
+Strings 
+Slicing
+- refers to taking a portion of a string and returning it using its index position
+
+Formating
+- formatting is string concatenating using the +
+- using the f-string ( f'{expression}')
+
+Multi-line String
+- use tripple qoutes to create multiple lines '''
+- escape using backslashes for each ending qoutes
+
+Byte
+- sequence of data
+- a byte object that is 4 bytes long is byte(4)
+- Each bytes has 8 bits
+- byte objects start with a b 
