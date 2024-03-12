@@ -24,8 +24,9 @@ You can use same file and run it on VS Code
    
 **Variable**
 -	 case sensitive and traditionally starts with a lower case.
+
   
-Types of variables
+**Types of variables**
 Integer – whole numbers (3)
 Floats –  decimal numbers (3.5)
 Complex numbers- used for mathematical calculation.
@@ -36,53 +37,54 @@ Booleans - which are true or false values
 
 
 
-Data Structures
+**Data Structures**
 -	data structures allow for the storage of a list of values in a single variable.
    
-Types of Data Structures
-List 
+**Types of Data Structures
+List** 
 - can contain any data type, including a list within a list. 
 - The length of a list can be determined using the length function.
 
-Set 
+**Set** 
 - similar to a list, except it only contains unique elements and is declared using curly braces.
 - The order of elements in a set is not important, unlike in a list
 
-Tuple
+**Tuple**
 - similar to lists, except they cannot be modified once declared
 - useful when you need to store large data into memory
 
-Dictionary
+**Dictionary**
 - is a collection of key-value pairs, similar to a word and its definition in a book
 - is declared using curly braces and accessed using keys
 
 
 
-Operators
+**Operators**
 - instructions that perform operations on variables and values in Python
 
-Arithmetic Operator
+**Arithmetic Operator**
 - used for mathematical calculaton
 
-Types of Arithmetic 
-Addition + 
+**Types of Arithmetic 
+Addition + **
 - add two numbers together
 
-Multiplication *
+**Multiplication ***
 - multiplies two numbers together
 - 
-Exponent **
+**Exponent ****
 - which raises a number to a specified power
  
-Division /
+**Division / **
   - returns a float even if the result is a whole number
-Modulus %
+    
+**Modulus % **
 - provides the remainder after division
   
-Concantenating +
+**Concantenating + **
 - works only on strings to combine them
   
-Multiplication String *
+**Multiplication String * **
 - can used to repeat a string a certain number of times. Works on 
   strings and numbers
 
