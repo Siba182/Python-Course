@@ -65,49 +65,49 @@ List**
 **Arithmetic Operator**
 - used for mathematical calculaton
 
-**Types of Arithmetic 
-Addition + **
+**Types of Arithmetic**
+Addition +
 - add two numbers together
 
-**Multiplication ***
+Multiplication *
 - multiplies two numbers together
 - 
-**Exponent ****
+Exponent **
 - which raises a number to a specified power
  
-**Division / **
+Division / 
   - returns a float even if the result is a whole number
     
-**Modulus % **
+Modulus % 
 - provides the remainder after division
   
-**Concantenating + **
+Concantenating + 
 - works only on strings to combine them
   
-**Multiplication String * **
+Multiplication String * 
 - can used to repeat a string a certain number of times. Works on 
   strings and numbers
 
-Comparison Operator ( ==, >, >=, <, <=)
+**Comparison Operator** ( ==, >, >=, <, <=)
 - compares two values and produces a boolean
 
-Logical Operator
+**Logical Operator**
 - "and" - returns true if both operands are true
 - "or" - returns true if at least one operand is true
 - "not" - negates the Boolean value it operates on
 
-Membership Operator
+**Membership Operator**
 - "in" and "not in" - used to check whether a value is present in a sequence or note
 
 
 
-Control Flow
+**Control Flow**
 - if statement - it executes a block of code only if a condition is met 
 - for loop - to iterate over a list 
 - while loop - keeps looping until a certain condition is false
 
 
-Functions 
+**Functions** 
 - is like a machine that takes inputs and produces outputs
 
 - how to define a function
@@ -116,29 +116,29 @@ def functionName (argument)
 
  - other function does not have any return value but uses print to print to the console
 
-3. BASIC STARTER TYPES
+**3. BASIC STARTER TYPES**
 
-INTS and FLOATS
+**INTS and FLOATS**
 - Python automatically returns a float to accommodate non-whole numbers
 - Adding a float to an int, multiplication or exponents will return a float
 
-Casting
+**Casting**
 - conversion from one type to another
 - doesnt round numbers, it just removes the decimal part eg 8.9 will be 8
 - to round a float to an int you use the round function eg round(14/3) will be 5
 - you can also round to the nearest decimal when calculating floats. eg. round(1.2 - 1.0, 2) will be 0.2
 
 
-Alternative Number Types
-Integer 
+**Alternative Number Types
+Integer** 
 - passing a number as a strng it, the int class converts it to an integer
 
-Decimal 
+**Decimal** 
 - better than the float if you will be dealing with money
 - you will need to import the decimal class and the getcontect function
 - the getcontext function hold a global setting for using the decimal class
 
-Booleans
+**Booleans**
 - integers are casted(converted) to booleans
 - anything except 0 is true
 - Boolean true is true
@@ -147,23 +147,23 @@ Booleans
 - Data structures can also be casted as booleans
 - an empty list or dictionary is false
 
-Strings 
+**Strings** 
 Slicing
 - refers to taking a portion of a string and returning it using its index position
 
-Formating
+**Formating**
 - formatting is string concatenating using the +
 - using the f-string ( f'{expression}')
 
-Multi-line String
+**Multi-line String**
 - use tripple qoutes to create multiple lines '''
 - escape using backslashes for each ending qoutes
 
-Byte
+**Byte**
 - sequence of data
 - a byte object that is 4 bytes long is byte(4)
 - Each bytes has 8 bits
 - byte objects start with a b
 
-
-4. BASIC DATA STRUCTURE
+**
+4. BASIC DATA STRUCTURE**
