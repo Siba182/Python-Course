@@ -66,6 +66,7 @@ List**
 - used for mathematical calculaton
 
 **Types of Arithmetic**
+
 Addition +
 - add two numbers together
 
