@@ -96,15 +96,15 @@ Membership Operator
 
 
 Control Flow
-if statement - it executes a block of code only if a condition is met 
-for loop - to iterate over a list 
-while loop - keeps looping until a certain condition is false
+- if statement - it executes a block of code only if a condition is met 
+- for loop - to iterate over a list 
+- while loop - keeps looping until a certain condition is false
 
 
 Functions 
 - is like a machine that takes inputs and produces outputs
 
-how to define a function
+- how to define a function
 def functionName (argument) 
  return value
 
