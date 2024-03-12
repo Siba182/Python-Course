@@ -2,7 +2,7 @@
 Work done during the first week of learning Python
 
 
-1. INTRODUCTION
+**1. INTRODUCTION**
    
 'jupyter notebook'
 Command to open and run jupyter from the browser
@@ -20,9 +20,9 @@ Creating a file, write code and run it from the browser
 You can use same file and run it on VS Code
 
 
-2. GETTING STARTED
+**2. GETTING STARTED**
    
-Variable
+**Variable**
 -	 case sensitive and traditionally starts with a lower case.
   
 Types of variables
