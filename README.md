@@ -131,8 +131,9 @@ def functionName (argument)
 - you can also round to the nearest decimal when calculating floats. eg. round(1.2 - 1.0, 2) will be 0.2
 
 
-**Alternative Number Types
-Integer** 
+**Alternative Number Types**
+
+**Integer** 
 - passing a number as a strng it, the int class converts it to an integer
 
 **Decimal** 
@@ -149,8 +150,9 @@ Integer**
 - Data structures can also be casted as booleans
 - an empty list or dictionary is false
 
-**Strings** 
-Slicing
+**Strings**
+
+**Slicing**
 - refers to taking a portion of a string and returning it using its index position
 
 **Formating**
