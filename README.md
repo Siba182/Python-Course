@@ -1,6 +1,9 @@
 # Python-Week-1
 Work done during the first week of learning Python
 
+
+1. INTRODUCTION
+   
 'jupyter notebook'
 Command to open and run jupyter from the browser
 
@@ -17,7 +20,8 @@ Creating a file, write code and run it from the browser
 You can use same file and run it on VS Code
 
 
-
+2. GETTING STARTED
+   
 Variable
 -	 case sensitive and traditionally starts with a lower case.
   
@@ -110,8 +114,7 @@ def functionName (argument)
 
  - other function does not have any return value but uses print to print to the console
 
-
-Basic Data Types
+3. BASIC STARTER TYPES
 
 INTS and FLOATS
 - Python automatically returns a float to accommodate non-whole numbers
@@ -158,4 +161,7 @@ Byte
 - sequence of data
 - a byte object that is 4 bytes long is byte(4)
 - Each bytes has 8 bits
-- byte objects start with a b 
+- byte objects start with a b
+
+
+4. BASIC DATA STRUCTURE
