@@ -171,3 +171,32 @@ def functionName (argument)
 
 
 **4. BASIC DATA STRUCTURE**
+
+**Lists**
+**Lists Sclicing**
+- slicing can be used to extract a range of values from a list or string
+- range function can be used to produce longer lists
+- negative values can be used to step back backward through the list
+- slicng also has a step functionality, index position, the last number and the amount of 
+   times you can step through a list [0:6:2]
+
+
+**Modifying List**
+
+- append() - to add an item to the end of a list eg 1,2,3,4 mylist.append(5)
+- insert() - to insert an item at a specific position in the list eg insert value 10 at 
+   position 3, myList.insert(3,10)
+- remove() - removes an item from the list base on its value and not index. eg 
+   myList.remove(5) will remove the value 5 and if 5 is not on the list, program will throw 
+   an error
+- pop() - removes the last item in the list
+          in the while loop, it can remove the entire loop if the condition set is true 
+
+**Sets**
+- defined using curly braces
+- also defined by passing iterable object in the constructor of the set class
+- sets only contains unique values so it will remove any duplicates in the list
+- does not contain an ordered list
+- cannot access elements in a set using index or slicing
+- can add on the set using add()
+- can remove on the set using discard() 
