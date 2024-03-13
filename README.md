@@ -27,12 +27,12 @@ You can use same file and run it on VS Code
 
   
 **Types of variables**
-Integer – whole numbers (3)
-Floats –  decimal numbers (3.5)
-Complex numbers- used for mathematical calculation.
-Strings -  which are collections of characters (‘Sibabalwe’)
-Booleans - which are true or false values
-+ used to concatenate strings
+- Integer – whole numbers (3)
+- Floats –  decimal numbers (3.5)
+- Complex numbers- used for mathematical calculation.
+- Strings -  which are collections of characters (‘Sibabalwe’)
+- Booleans - which are true or false values
+- used to concatenate strings +
 
 
 
@@ -199,4 +199,22 @@ def functionName (argument)
 - does not contain an ordered list
 - cannot access elements in a set using index or slicing
 - can add on the set using add()
-- can remove on the set using discard() 
+- can remove on the set using discard()
+
+**Tuple**
+- similar to lists but declared using round brackets
+- cannot be modified
+- can get an element using index
+- take up less memory - good for when you have large amount of data to store
+
+**Dictionary**
+- a collection of key values pairs ordered and changeable
+- no duplicates
+- defined using curly braces
+- to get a specific dictionary you call the dictionary with a key inside square braces
+- to add a new key you can call the dictionary with the key in square braces and assigning 
+  it a value
+- to a update an existing value, call the dictionary with the existing key inside square 
+  braces with a new value
+- you can access the keys and values individually using .keys() and values() method 
+  respectively
