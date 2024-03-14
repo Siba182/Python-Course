@@ -218,3 +218,17 @@ def functionName (argument)
   braces with a new value
 - you can access the keys and values individually using .keys() and values() method 
   respectively
+
+**List Cmprehension**
+- has to do with the comprehensive listing of things
+- similar syntax to that of a loop
+- create a loop in one line while also returning a copy of the list being iterated over
+
+- split() function allows you to split a sting based on a character or string.
+- cleanWord() fuction allows you to replace characters in a string using the below functions
+- replace() replaces a certain character
+- lower() makes all first characters of a word a lower case
+
+
+**Dictionaries and Comprehensions**
+-
