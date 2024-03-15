@@ -232,3 +232,11 @@ def functionName (argument)
 
 **Dictionaries and Comprehensions**
 -
+
+
+**5. Basic Control Flow**
+if and else-
+
+While loop
+- to exit the loop and run the next code, you use the break statement
+- continue -if you want to skip certain lines in the loop 
