@@ -1,3 +1,9 @@
+<details>
+<summary> Week 1 </summary>
+<br>
+ 
+
+
 # Python-Week-1
 Work done during the first week of learning Python
 
@@ -240,3 +246,11 @@ if and else-
 While loop
 - to exit the loop and run the next code, you use the break statement
 - continue -if you want to skip certain lines in the loop 
+
+</details>
+
+<details>
+<summary> Week 1 </summary>
+<br>
+ 
+</details>
