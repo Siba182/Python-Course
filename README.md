@@ -279,6 +279,44 @@ You can override on a function
 - can be passsed in any order
   
 
+**Variables and Scope**
+
+**Locals**
+- variable names that are only accessible locally within the function
+- can be defined by any name within the function definition, and it will be available anywhere within that function
+-  trying to reference a variable outside its scope will result in an error. 
+
+
+**Globals**
+- outside the function
+- looks up the variable's data, it checks the local scope first and then the global scope.
+- redefine a message in function one's local scope and print both the local and global values of the message
+
+
+**Functions as Variables**
+- variables and functions both have names and data associated with them
+- for functions, this data includes information about required parameters and the lines of instruction to be executed
+-  a function is represented as an object.
+
+
+
+Viewing Function Data With  __code__
+
+![image](https://github.com/Siba182/Python-Course/assets/60964130/3dcb7117-6402-4507-bc1f-be4b53cdf604)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
