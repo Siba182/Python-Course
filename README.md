@@ -252,5 +252,19 @@ While loop
 <details>
 <summary> Week 2 </summary>
 <br>
- 
+
+
+ **Functions**
+
+- is like a machine that takes inputs and produces outputs
+
+- how to define a function def functionName (argument) return value
+
+- other function does not have any return value but uses print to print to the console
+
+You can override on a function
+![image](https://github.com/Siba182/Python-Course/assets/60964130/1a19f877-8642-4cdb-a044-b570788bd2c2)
+
+
+
 </details>
