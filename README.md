@@ -266,5 +266,21 @@ You can override on a function
 ![image](https://github.com/Siba182/Python-Course/assets/60964130/1a19f877-8642-4cdb-a044-b570788bd2c2)
 
 
+*args
+- they must come after the positional arguments
+- The order of the first two arguments is important and cannot be changed
+- after these mandatory arguments, the keyword arguments can be in any order
+- only for positional argument
+
+
+**kwargs (keyword arguments)
+- use kwargs to handle keyword arguments
+- stored as a dictionary as they have keys and values
+- can be passsed in any order
+  
+
+
+
+
 
 </details>
