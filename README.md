@@ -250,7 +250,7 @@ While loop
 </details>
 
 <details>
-<summary> Week 1 </summary>
+<summary> Week 2 </summary>
 <br>
  
 </details>
