@@ -1,3 +1,9 @@
+<details>
+<summary> Week 1 </summary>
+<br>
+ 
+
+
 # Python-Week-1
 Work done during the first week of learning Python
 
@@ -232,3 +238,87 @@ def functionName (argument)
 
 **Dictionaries and Comprehensions**
 -
+
+
+**5. Basic Control Flow**
+if and else-
+
+While loop
+- to exit the loop and run the next code, you use the break statement
+- continue -if you want to skip certain lines in the loop 
+
+</details>
+
+<details>
+<summary> Week 2 </summary>
+<br>
+
+
+ **Functions**
+
+- is like a machine that takes inputs and produces outputs
+
+- how to define a function def functionName (argument) return value
+
+- other function does not have any return value but uses print to print to the console
+
+You can override on a function
+![image](https://github.com/Siba182/Python-Course/assets/60964130/1a19f877-8642-4cdb-a044-b570788bd2c2)
+
+
+*args
+- they must come after the positional arguments
+- The order of the first two arguments is important and cannot be changed
+- after these mandatory arguments, the keyword arguments can be in any order
+- only for positional argument
+
+
+**kwargs (keyword arguments)
+- use kwargs to handle keyword arguments
+- stored as a dictionary as they have keys and values
+- can be passsed in any order
+  
+
+**Variables and Scope**
+
+**Locals**
+- variable names that are only accessible locally within the function
+- can be defined by any name within the function definition, and it will be available anywhere within that function
+-  trying to reference a variable outside its scope will result in an error. 
+
+
+**Globals**
+- outside the function
+- looks up the variable's data, it checks the local scope first and then the global scope.
+- redefine a message in function one's local scope and print both the local and global values of the message
+
+
+**Functions as Variables**
+- variables and functions both have names and data associated with them
+- for functions, this data includes information about required parameters and the lines of instruction to be executed
+-  a function is represented as an object.
+
+
+
+Viewing Function Data With  __code__
+
+![image](https://github.com/Siba182/Python-Course/assets/60964130/3dcb7117-6402-4507-bc1f-be4b53cdf604)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
