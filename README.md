@@ -353,3 +353,11 @@ Viewing Function Data With  __code__
 
 
 </details>
+
+
+
+<details>
+<summary> Week 3 </summary>
+<br>
+ 
+</details>
