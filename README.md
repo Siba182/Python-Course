@@ -305,6 +305,37 @@ Viewing Function Data With  __code__
 ![image](https://github.com/Siba182/Python-Course/assets/60964130/3dcb7117-6402-4507-bc1f-be4b53cdf604)
 
 
+**Static and Instance Methods**
+![image](https://github.com/Siba182/Python-Course/assets/60964130/d3045471-37dc-4bda-afe1-d67c6db9975b)
+
+
+- the cleanText() is a static method because it does not belong to any class instance
+- addText() is an instance method that belongs to a an instance of the a class
+- Static variables like replace puncs can also be added to control which punctuations get 
+  replaced
+- Use either the class name or the class instance to refer to static variables, but cannot be 
+  done with instance methods
+
+
+**Decorator**
+- a special annotation or description for a function definition.
+
+
+**Inheritance**
+- it is possible for one class to inherit all the methods and attributes of another class
+- The original class is referred to as the parent class, while the new class that extends it is 
+   known as the child class
+- This inheritance process happens automatically when the child class is created.
+- you can overwrite a parent class if you wish to add or change a method
+- you can also add new methods on child classes
+- useful for when an existing class is used but needs a few changes or additions 
+
+
+
+**Handling Errors and Exceptions**
+
+
+
 
 
 
