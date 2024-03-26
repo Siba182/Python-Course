@@ -387,6 +387,24 @@ TypeError - will check if you are adding or doing calculations of the same type
 <br>
 
 
+**User Stories**
+-  depict small scenarios from a user's perspective
+-  hese stories should emphasize the user's goal and motivation rather than the application itself
+-  follow the format "As a [user/role], I want [goal] so that [reason/benefit]".
+-   example : "As a digest recipient, I want to receive an email every morning with current and useful information so that I know what's going on in the world and learn something new each day.
 
- 
+
+ **Use cases**
+ - include a title, an actor (a user or system), and a scenario that describes how a goal is achieved
+ - cover the who, what, and how of achieving that goal
+
+**Project Requirements**
+- it's helpful to write traditional requirements to formally capture the capabilities and limitations of an application.
+- Functional requirements describe what the application should or should not do and are written as sentences starting with "the application must" or "the application shall."
+- User Stories, Use Cases, Requirements
+
+
+**Architecture**
+- Looking at the requirements, use cases, and user stories, identifying nouns helps determine potential objects.
+  
 </details>
