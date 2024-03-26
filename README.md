@@ -374,6 +374,8 @@ TypeError - will check if you are adding or doing calculations of the same type
 
 **Appending files**
 
+![image](https://github.com/Siba182/Python-Course/assets/60964130/9821f9f2-750f-4bc3-b34c-be96e160a933)
+
 
 
 </details>
@@ -383,5 +385,8 @@ TypeError - will check if you are adding or doing calculations of the same type
 <details>
 <summary> Week 3 </summary>
 <br>
+
+
+
  
 </details>
