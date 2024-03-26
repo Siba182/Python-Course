@@ -333,23 +333,38 @@ Viewing Function Data With  __code__
 
 
 **Handling Errors and Exceptions**
+- try block - lets you test a block of code for errors
+- the except - lets you handle the error
+- you can print out an error message if you dont want the specififc instance of the exception
+  ![image](https://github.com/Siba182/Python-Course/assets/60964130/a26fe096-bcd0-4d8e-a60d-90d4ff927c8f)
 
 
+**Finally**
+- the finally block- lets you execute code regardless of the try and except blocks
+- will execute even if error is raised from the try and block
+- Even if no exception is raised at all, that still executes
+- Often this is used when timing how long a function takes to execute
+
+**Catching Exceptions by Type**
+TypeError - will check if you are adding or doing calculations of the same type
+
+- order of errors does not matter
+
+**Custom Decorators**
+- use a decorator with a @
+- used to accept those various exceptions that this could throw
+
+**Raising Exception**
+- makes use of a custom decoratoe eg @handleException
+- raise Exception()
+- 
 
 
+**Multithreading**
+- is a way of achieving multitasking using threads 
 
-
-
-
-
-
-
-
-
-
-
-
-
+**Multiprocessing**
+- refers to the ability of a system to support more than one processor at the same time
 
 
 </details>
