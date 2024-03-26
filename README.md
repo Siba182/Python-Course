@@ -367,6 +367,14 @@ TypeError - will check if you are adding or doing calculations of the same type
 - refers to the ability of a system to support more than one processor at the same time
 
 
+**Writing and Reading Files
+![image](https://github.com/Siba182/Python-Course/assets/60964130/2f322afa-34cd-4599-999c-8edd2a00c61d)
+
+
+**Appending files**
+
+
+
 </details>
 
 
